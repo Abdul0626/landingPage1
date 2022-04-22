@@ -1,0 +1,31 @@
+body{
+    background-image: url(img/sky-14.jpg);
+    overflow-y: scroll;    
+}
+
+.nav-item{
+    font-family: 'Press Start 2P', cursive;
+}
+
+.text-light{
+    font-family: 'Press Start 2P', cursive;
+}
+
+.text-center{
+    font-family: 'Press Start 2P', cursive;
+}
+#mocha{
+    width: 100%;
+    object-fit: cover;
+}
+
+#UNC{
+    width: 100%;
+    object-fit: cover;
+}
+
+#Reb{
+    width: 100%;
+    object-fit: cover;
+}
+
